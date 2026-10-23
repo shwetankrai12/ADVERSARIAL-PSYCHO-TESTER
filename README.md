@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/psycho-agents-title.svg" alt="PSYCHO AGENTS" width="760">
-</p>
+![PSYCHO AGENTS](https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,48:dc143c,100:57000d&height=180&section=header&text=PSYCHO%20AGENTS&fontSize=70&fontColor=ffffff&fontAlignY=52&animation=fadeIn)
 
 <p align="center"><strong>Extreme edge-case auditing for web apps.</strong></p>
 
