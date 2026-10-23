@@ -1,4 +1,8 @@
-# Psycho Agents
+<p align="center">
+  <img src="./assets/psycho-agents-title.svg" alt="PSYCHO AGENTS" width="760">
+</p>
+
+<p align="center"><strong>Extreme edge-case auditing for web apps.</strong></p>
 
 **Psycho Agents** is a Codex skill for auditing web applications at their sharpest edges: valid inputs that take on a different meaning when they cross a boundary such as a form, database, export, clock, or retry path.
 
