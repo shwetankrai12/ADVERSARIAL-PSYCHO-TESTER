@@ -1,5 +1,0 @@
-interface:
-  display_name: "Psycho Agents"
-  short_description: "Audit web apps for high-impact edge cases"
-  default_prompt: "Use $psycho-agents to audit my owned staging web app for edge-case failures."
-
